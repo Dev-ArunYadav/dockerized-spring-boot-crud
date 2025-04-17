@@ -13,18 +13,32 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dockerized-spring-boot-crud</name>
 	<description>Spring Boot with Docker to build a CRUD application</description>
-	<url/>
+	<url>https://github.com/Dev-ArunYadav/dockerized-spring-boot-crud</url>
+
+	<!-- ✅ License -->
 	<licenses>
-		<license/>
+		<license>
+			<name>MIT License</name>
+			<url>https://opensource.org/licenses/MIT</url>
+			<distribution>repo</distribution>
+		</license>
 	</licenses>
+
+	<!-- ✅ Author/Developer Info -->
 	<developers>
-		<developer/>
+		<developer>
+			<id>Dev-ArunYadav</id>
+			<name>Arun Yadav</name>
+			<email>ydv.arun182@gmail.com</email>
+		</developer>
 	</developers>
+
+	<!-- ✅ Source Control Info -->
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>scm:git:https://github.com/Dev-ArunYadav/dockerized-spring-boot-crud.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/Dev-ArunYadav/dockerized-spring-boot-crud.git</developerConnection>
+		<url>https://github.com/Dev-ArunYadav/dockerized-spring-boot-crud</url>
+		<tag>HEAD</tag>
 	</scm>
 	<properties>
 		<java.version>17</java.version>
